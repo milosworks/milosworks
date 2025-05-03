@@ -5,7 +5,7 @@
 -   <img src="https://emojis.slackmojis.com/emojis/images/1709364039/89804/brainq.png?1709364039" width="20"> Studying to be a doctor and a self-taught developer as a hobby.
 -   <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20"> Currently working on a Minecraft mod, my portfolio, and a secret project.
 -   <img src="https://emojis.slackmojis.com/emojis/images/1643514881/8944/vscode.png?1643514881" width="20"> <a href="https://code.visualstudio.com/">VSCode</a> / <a href="https://www.jetbrains.com/idea/">IntelliJ</a> / <a href="https://www.jetbrains.com/go/">GoLand</a> / <a href="https://www.google.com/chrome/">Chrome</a> / <a href="https://music.youtube.com/playlist?list=PLnsmdMXYvlVKyT2laJ0LgxYfuEp4PeRRx">YoutubeMusic</a>
--   <img src="https://emojis.slackmojis.com/emojis/images/1703376648/83846/monke_gamingq.png?1703376648" width="20"> I play games like overwatch, minecraft, valorant and more.
+-   <img src="https://emojis.slackmojis.com/emojis/images/1703376648/83846/monke_gamingq.png?1703376648" width="20"> I have an addiction to marvel rivals, i also play minecraft, valorant, overwatch and more.
 
 <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact">
 
